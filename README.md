@@ -12,7 +12,7 @@
 		</div>
 		</br>
 		<p align="center">
-			<img src="https://github.com/Blaeste/gifforgeek/blob/main/giphy.webp" alt="animated" />
+			<img src="https://github.com/Blaeste/gifforgeek/blob/main/nose-whistle.gif" alt="animated" />
 		</p>
 		<div id="top"></div>
 		<div align="center">
